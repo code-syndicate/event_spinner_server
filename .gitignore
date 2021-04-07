@@ -1,0 +1,14 @@
+apis\__pycache__
+apis\migrations
+event_spinner_server\__pycache__
+events\__pycache__
+*__pycache__
+users\__pycache__
+users\migrations
+db.sqlite3
+migrations
+*migrations
+/migrations
+/__pycache__
+
+
